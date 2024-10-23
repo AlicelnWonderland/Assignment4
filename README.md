@@ -8,6 +8,7 @@
 
 ## Visitor Pattern
 
+\`\`\`
 Visitor
    |
    |----> visit(ConcreteElementA)
@@ -17,3 +18,5 @@ Visitor
    |----> visit(ConcreteElementB)
                      |
                      ----> operationB() [ConcreteElementB]
+\`\`\`
+
