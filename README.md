@@ -8,7 +8,7 @@
 
 ## Visitor Pattern
 
-\`\`\`
+<pre>
 Visitor
    |
    |----> visit(ConcreteElementA)
@@ -18,5 +18,4 @@ Visitor
    |----> visit(ConcreteElementB)
                      |
                      ----> operationB() [ConcreteElementB]
-\`\`\`
-
+</pre>
